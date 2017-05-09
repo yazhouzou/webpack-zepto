@@ -1,6 +1,6 @@
 {
   "name": "of-webpack-zepto",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "author": "OF",
   "description": "Zepto for npm loader.",
   "main": "webpack-zepto.js",

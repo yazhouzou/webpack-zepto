@@ -6,11 +6,11 @@ Zepto for npm.
 自定义构建模块 MODULES="zepto event form data assets selector touch" npm run-script dist
 
 
-##Install
+## Install
 
 `npm install of-webpack-zepto --save`
 
-##Usage -- webpack
+## Usage -- webpack
 
 `import $ from 'of-webpack-zepto'`
 
@@ -18,7 +18,7 @@ Zepto for npm.
   $: 'jquery'
 }) // 自动加载模块`
 
-##Links
+## Links
 
 http://zeptojs.com/
 
